@@ -9,8 +9,8 @@ APP_NAME = "晋源供电公司调控中心"
 # 主窗口顶部软件名称这行文字的颜色和字号。
 # 颜色用十六进制色号，比如红色是 "#FF0000"，蓝色是 "#0000FF"。
 # 字号是数字，越大字越大。改完保存，重新运行软件就能看到效果。
-APP_TITLE_COLOR = "#009933‌"
-APP_TITLE_FONT_SIZE = 18
+APP_TITLE_COLOR = "#009966"
+APP_TITLE_FONT_SIZE =18
 
 # 自定义标题栏本身的背景颜色（就是这行字所在的那一整条）
 APP_TITLEBAR_BG_COLOR = "#CCFF99"
